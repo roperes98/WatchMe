@@ -40,16 +40,16 @@ This project was built using:
 ```bash
 
   # Clone the repository
-  $ git clone https://github.com/roperes98/WatchMe.git
+  $ `git clone https://github.com/roperes98/WatchMe.git`
 
   # Go to the repository
-  $ cd WatchMe
+  $ `cd WatchMe`
 
   # Install dependencies
-  $ yarn install or npm install
+  $ `yarn install` or `npm install`
 
   # Start the development server
-  $ yarn start or npm start
+  $ `yarn start` or `npm start`
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀
