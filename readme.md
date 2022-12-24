@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/languages/count/roperes98/WatchMe.svg?color=lightgrey)
 ![](https://img.shields.io/github/languages/top/roperes98/WatchMe.svg?color=yellow)
 ![](https://img.shields.io/github/repo-size/roperes98/WatchMe.svg)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/WatchMe.svg?v=103)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## 📚 Index
 - [About](#-about)
